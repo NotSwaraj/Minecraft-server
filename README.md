@@ -1,7 +1,7 @@
 # Minecraft-server
 Didn't make this but heres how to set it up
 
-go to dashboard.ngrok.com
+Go to dashboard.ngrok.com
 get your token
 make a file called `.env` 
 Lay your env out like this:
